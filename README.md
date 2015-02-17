@@ -26,9 +26,11 @@ absolute path to the root of this repo.
  * Arduino :: [from linino repo](https://github.com/linino/linino_distro/blob/master/LICENSE)
  * libpcre :: [from debian.org](http://metadata.ftp-master.debian.org/changelogs//main/p/pcre3/pcre3_8.02-1.1_copyright)
  * libyaml :: [from debian.org](http://metadata.ftp-master.debian.org/changelogs//main/liby/libyaml/libyaml_0.1.3-1+deb6u4_copyright)
+ * libuv :: [from github](http://github.com/libuv/libuv/blob/v1.x/LICENSE)
 
 ### Sources
 
  * Toolchain source code :: [from Arduino/linino.git](https://github.com/arduino/linino.git)
  * libpcre source code :: [from debian.org](https://packages.debian.org/squeeze/libpcre3)
  * libyaml source code :: [from debian.org](https://packages.debian.org/squeeze/libyamo-0-2)
+ * libuv source code :: [from github])http://github.com/libuv/libuv)
